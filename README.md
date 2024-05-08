@@ -1,7 +1,8 @@
 # Template Infinity
 * HTML
 * CSS
-* JS
-* normalize.css
-* Fontawesome 5.15
+* JavaScript
+* normalize.css (Reset Style)
+* Google Fonts (Fonts)
+* FontaAwesome 5.15 (Icons)
 
